@@ -1,0 +1,144 @@
+Earlier this year, the buzz around Megyn Kelly’s move from Fox News to NBC--and the millions she was getting to switch--was so loud that the noise broke through the typically insular media world and captured the interest of her loyal Fox fans and NBC viewers, alike. But if NBC paid such a high price for the political commentator-turned-perky-morning-host, why is she nowhere to be found on this year’s list of top-paid TV hosts?  Well it turns out Kelly’s salary, which is about $18 million per year, is not all that abnormal compared to her morning show counterparts, and without many side projects, her earnings did not make the $21 million cut.  Kelly’s Today earnings line up with those of other morning stars, most of whom also didn’t make the list. Matt Lauer earns $20 million for his longstanding role as a Today anchor, and Robin Roberts of Good Morning America makes $18 million annually, while her cohost George Stephanopoulos makes about $15 million. (Michael Strahan, who actually made the Top-Earning TV Host List, makes closer to $13 million for Good Morning America, but has a number of other revenue streams.) Kelly Ripa earned about $18 million last year from Live!, but will see her salary increase next year to over $20 million.  Networks are willing to pay top dollar to these morning show hosts, as the competitive time slot is one of the most lucrative on television.  “The profits come from the morning shows,” says one industry insider. “It’s a simple equation of math; that’s where advertisers shell out.”  The A.M. hours attract one of the few remaining consistent and targetable audiences for advertisers, plus the promise of being surrounded by trusted content. This means high revenues at little cost, seeing that besides the hosts and crews, these shows have few production expenditures for the networks.  “Because there is so much fragmentation, finding places where there is this sort of concentration is hugely efficient, effective and attractive to advertisers,” says Adam Klein, an adjunct professor at Columbia Journalism School, adding that morning show audiences are often quite homogeneous in terms of product interests.  A popular morning show can also secure audiences for later hours. “It sets the dial for the rest of the day,” says Les Rose, a professor of practice in broadcast and digital journalism at Syracuse’s Newhouse school, explaining why popular hosts are worth their paychecks.  The World's Highest-Paid TV Hosts: Dr. Phil, Ellen DeGeneres And Ryan Seacrest Lead  Thus Kelly’s salary is not considerably higher than those of her peers. But she came close enough to the cut-off that she could have made the list had she had a few revenue streams beyond her television paycheck. While she was paid a hefty multi-million dollar advance for her book Settle For More in early 2016, she did not sell enough copies to earn more on top of that, meaning her earnings for Forbes' scoring period (the 12 months leading up to June 1, 2017) were not effected. Additionally, she had no product endorsements or licensing deals, as some non-news show hosts, such as Ryan Seacrest and Ellen DeGeneres, do.  Perhaps the most noteworthy part of Kelly’s payday, then, is that she achieved her eight-figure salary without putting in the legwork to prove herself on morning television--something that took years for anchors like Lauer, Roberts and Stephanopoulos.  “She was brought in knowing they’d have to invest some time on her,” explains Klein.  It’s true: The sharp commentator of Fox News is finding her footing as a bubbly morning host who actively avoids talking her former bread and butter--politics. The transition has not been an easy one. Her Sunday night newsmagazine, which aired over the summer, got off to a bumpy start both in terms of ratings and content, including a softball interview with Vladimir Putin and controversial one with Alex Jones.  Even With The $32 Million Settlement, Bill O'Reilly Made Millions Last Year  Her Today debut has been similarly off, though it has seen improvements more recently as she has discussed the various Hollywood sexual harassment and assault scandals--something which she allegedly experienced first-hand at Fox News. In her first week, NBC ratings were down over 12% from the year prior, and they declined by double digit percentages throughout October. The reviews were also rough: She upset guests Jane Fonda and Debra Messing, and reportedly is having a hard time booking celebrities.  It is likely too soon to tell, then, if the $18 million salary--one that may be reasonable for seasoned and beloved morning show anchors--is worth it for her.  “It’s sort of like horse racing,” says Rose. “You’ve got to bet on the right pony, and NBC bet on her.”
+{'entity_name': 'Megyn Kelly', 'index': [35, 46]}
+{'entity_name': 'Move (company)', 'index': [49, 53]}
+{'entity_name': 'Fox News Channel', 'index': [59, 67]}
+{'entity_name': 'Noise', 'index': [127, 131]}
+{'entity_name': 'Noise pollution', 'index': [141, 146]}
+{'entity_name': 'Data storage device', 'index': [183, 188]}
+{'entity_name': 'Media Markt', 'index': [183, 194]}
+{'entity_name': 'Rape', 'index': [199, 207]}
+{'entity_name': 'Fox Broadcasting Company', 'index': [234, 237]}
+{'entity_name': 'NBC', 'index': [247, 250]}
+{'entity_name': 'If... (Desperate Housewives)', 'index': [271, 273]}
+{'entity_name': 'NBC', 'index': [274, 277]}
+{'entity_name': 'Lost (TV series)', 'index': [369, 376]}
+{'entity_name': 'Television', 'index': [421, 423]}
+{'entity_name': 'Shapeshifting', 'index': [440, 445]}
+{'entity_name': 'Coming out', 'index': [446, 449]}
+{'entity_name': 'The Onion', 'index': [450, 455]}
+{'entity_name': 'Income', 'index': [607, 615]}
+{'entity_name': 'The Onion', 'index': [651, 656]}
+{'entity_name': 'Online and offline', 'index': [674, 678]}
+{'entity_name': 'Matt Lauer', 'index': [757, 767]}
+{'entity_name': 'Today (U.S. TV program)', 'index': [817, 822]}
+{'entity_name': 'News presenter', 'index': [823, 829]}
+{'entity_name': 'Robin Roberts (newscaster)', 'index': [835, 848]}
+{'entity_name': 'Good Morning America', 'index': [852, 872]}
+{'entity_name': 'Morning in America', 'index': [857, 872]}
+{'entity_name': 'Presenter', 'index': [911, 917]}
+{'entity_name': 'George Stephanopoulos', 'index': [918, 939]}
+{'entity_name': 'Michael Strahan', 'index': [966, 981]}
+{'entity_name': 'Presenter', 'index': [1017, 1024]}
+{'entity_name': 'Good Morning America', 'index': [1063, 1083]}
+{'entity_name': 'Morning in America', 'index': [1068, 1083]}
+{'entity_name': 'Continent', 'index': [1095, 1101]}
+{'entity_name': 'Revenue', 'index': [1105, 1118]}
+{'entity_name': 'Revenue', 'index': [1111, 1118]}
+{'entity_name': 'Streaming media', 'index': [1119, 1126]}
+{'entity_name': 'Kelly Ripa', 'index': [1129, 1139]}
+{'entity_name': 'O mie', 'index': [1157, 1164]}
+{'entity_name': 'Eurovision Song Contest 2005', 'index': [1165, 1174]}
+{'entity_name': 'Salary', 'index': [1204, 1210]}
+{'entity_name': 'Node (networking)', 'index': [1313, 1318]}
+{'entity_name': 'Television', 'index': [1381, 1391]}
+{'entity_name': 'Breakfast television', 'index': [1421, 1434]}
+{'entity_name': 'The Insider (film)', 'index': [1455, 1462]}
+{'entity_name': 'Simple group', 'index': [1472, 1478]}
+{'entity_name': 'Equation', 'index': [1479, 1487]}
+{'entity_name': 'Mathematics', 'index': [1491, 1495]}
+{'entity_name': 'Royal Dutch Shell', 'index': [1522, 1527]}
+{'entity_name': 'Neoplatonism', 'index': [1558, 1561]}
+{'entity_name': 'Consistency', 'index': [1583, 1593]}
+{'entity_name': 'Advertising', 'index': [1623, 1634]}
+{'entity_name': 'Promise', 'index': [1645, 1652]}
+{'entity_name': 'Trust (emotion)', 'index': [1676, 1683]}
+{'entity_name': 'Content management', 'index': [1684, 1691]}
+{'entity_name': 'Production (economics)', 'index': [1796, 1806]}
+{'entity_name': 'Cost', 'index': [1807, 1819]}
+{'entity_name': 'Computer network', 'index': [1828, 1836]}
+{'entity_name': 'Fragmentation (computing)', 'index': [1865, 1878]}
+{'entity_name': 'Attention', 'index': [1923, 1936]}
+{'entity_name': 'Efficiency', 'index': [1947, 1956]}
+{'entity_name': 'Effectiveness', 'index': [1958, 1967]}
+{'entity_name': 'Advertising', 'index': [1986, 1997]}
+{'entity_name': 'Adam Klein (swimmer)', 'index': [2005, 2015]}
+{'entity_name': 'Adjunct professor', 'index': [2020, 2037]}
+{'entity_name': 'Columbia University Graduate School of Journalism', 'index': [2041, 2067]}
+{'entity_name': 'Homogeneity and heterogeneity', 'index': [2120, 2131]}
+{'entity_name': 'First-order logic', 'index': [2135, 2140]}
+{'entity_name': 'Multiplication', 'index': [2144, 2151]}
+{'entity_name': 'Breakfast television', 'index': [2174, 2186]}
+{'entity_name': 'Watch', 'index': [2243, 2247]}
+{'entity_name': 'Professor', 'index': [2291, 2300]}
+{'entity_name': 'Professors in the United States', 'index': [2291, 2312]}
+{'entity_name': 'Broadcasting', 'index': [2316, 2325]}
+{'entity_name': 'Digital journalism', 'index': [2330, 2348]}
+{'entity_name': 'Syracuse, New York', 'index': [2352, 2360]}
+{'entity_name': 'S. I. Newhouse School of Public Communications', 'index': [2363, 2371]}
+{'entity_name': 'S. I. Newhouse School of Public Communications', 'index': [2363, 2378]}
+{'entity_name': 'Pop music', 'index': [2395, 2402]}
+{'entity_name': 'Television', 'index': [2462, 2464]}
+{'entity_name': 'Presenter', 'index': [2465, 2470]}
+{'entity_name': 'Dr. Phil (TV series)', 'index': [2472, 2480]}
+{'entity_name': 'Ellen DeGeneres', 'index': [2482, 2497]}
+{'entity_name': 'Ryan Seacrest', 'index': [2502, 2515]}
+{'entity_name': 'Singing', 'index': [2516, 2520]}
+{'entity_name': 'Aaron Kelly (singer)', 'index': [2527, 2532]}
+{'entity_name': 'Salary', 'index': [2535, 2541]}
+{'entity_name': 'Streaming media', 'index': [2695, 2702]}
+{'entity_name': 'Television film', 'index': [2714, 2724]}
+{'entity_name': 'Paycheck (film)', 'index': [2725, 2733]}
+{'entity_name': 'Dollar', 'index': [2776, 2782]}
+{'entity_name': 'Game Boy Advance', 'index': [2783, 2790]}
+{'entity_name': 'On Top (album)', 'index': [2879, 2885]}
+{'entity_name': 'On Top (album)', 'index': [2882, 2885]}
+{'entity_name': 'Forbes', 'index': [2920, 2926]}
+{'entity_name': 'Film score', 'index': [2928, 2935]}
+{'entity_name': 'Historical period drama', 'index': [2936, 2942]}
+{'entity_name': 'Testimonial', 'index': [3038, 3050]}
+{'entity_name': 'Brand licensing', 'index': [3054, 3063]}
+{'entity_name': 'Television program', 'index': [3088, 3092]}
+{'entity_name': 'Ryan Seacrest', 'index': [3108, 3121]}
+{'entity_name': 'Ellen DeGeneres', 'index': [3126, 3141]}
+{'entity_name': 'Today (U.S. TV program)', 'index': [3302, 3309]}
+{'entity_name': 'CBS Evening News', 'index': [3352, 3359]}
+{'entity_name': 'Matt Lauer', 'index': [3365, 3370]}
+{'entity_name': 'Deborah Roberts', 'index': [3372, 3379]}
+{'entity_name': 'George Stephanopoulos', 'index': [3384, 3398]}
+{'entity_name': 'Naomi Klein', 'index': [3479, 3484]}
+{'entity_name': 'For the Fans (Backstreet Boys album)', 'index': [3487, 3496]}
+{'entity_name': 'True (Spandau Ballet song)', 'index': [3492, 3496]}
+{'entity_name': 'Pundit', 'index': [3508, 3519]}
+{'entity_name': 'Fox News Channel', 'index': [3523, 3531]}
+{'entity_name': 'Bubbly', 'index': [3560, 3566]}
+{'entity_name': 'Today (U.S. TV program)', 'index': [3567, 3574]}
+{'entity_name': 'One (Australian TV channel)', 'index': [3683, 3686]}
+{'entity_name': 'Sunday Night (Australian TV program)', 'index': [3692, 3704]}
+{'entity_name': 'News magazine', 'index': [3705, 3717]}
+{'entity_name': 'Softball', 'index': [3823, 3831]}
+{'entity_name': 'Vladimir Putin', 'index': [3847, 3861]}
+{'entity_name': 'Stem cell controversy', 'index': [3866, 3879]}
+{'entity_name': 'Alex Jones (radio host)', 'index': [3889, 3899]}
+{'entity_name': 'Settlement (litigation)', 'index': [3928, 3938]}
+{'entity_name': "Bill O'Reilly (political commentator)", 'index': [3940, 3953]}
+{'entity_name': 'Cinema of the United States', 'index': [4098, 4107]}
+{'entity_name': 'Sexual harassment', 'index': [4108, 4125]}
+{'entity_name': 'Sexual assault', 'index': [4130, 4137]}
+{'entity_name': 'Fox News Channel', 'index': [4204, 4212]}
+{'entity_name': 'First Amendment to the United States Constitution', 'index': [4221, 4226]}
+{'entity_name': 'The Week', 'index': [4227, 4231]}
+{'entity_name': 'NBC', 'index': [4233, 4236]}
+{'entity_name': 'Motion Picture Association of America film rating system', 'index': [4237, 4244]}
+{'entity_name': 'Declension', 'index': [4294, 4302]}
+{'entity_name': 'Metric prefix', 'index': [4306, 4312]}
+{'entity_name': 'Numerical digit', 'index': [4313, 4318]}
+{'entity_name': 'Percentage', 'index': [4319, 4330]}
+{'entity_name': 'Jane Fonda', 'index': [4397, 4407]}
+{'entity_name': 'Debra Messing', 'index': [4412, 4425]}
+{'entity_name': 'Celebrity', 'index': [4472, 4483]}
+{'entity_name': 'English modal verbs', 'index': [4559, 4562]}
+{'entity_name': 'Reasonable person', 'index': [4566, 4576]}
+{'entity_name': 'Horse racing', 'index': [4665, 4677]}
+{'entity_name': 'Rose Bowl Game', 'index': [4685, 4689]}
+{'entity_name': 'NBC', 'index': [4733, 4736]}
+{'entity_name': 'BET', 'index': [4737, 4740]}

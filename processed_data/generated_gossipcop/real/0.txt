@@ -1,0 +1,107 @@
+Lea Salonga, a native of the Philippines, has achieved her dream of becoming a Disney Princess. After earning a Tony Award for her portrayal of Kim in the Broadway musical "Miss Saigon" in 1991, Salonga landed the role of Princess Jasmine in the 1992 hit Disney film "Aladdin." She later reprised her role as Mulan in the 1998 Disney film of the same name.  In a recent phone interview, Salonga reflected on the magical experience of becoming a Disney Princess. "I never thought when I was 5 and listening to 'Cinderella' stories that I'd be a Disney princess," she said. "I think it's such a magical thing to happen in my life, and for it to happen twice is something I would never have thought could happen."  Salonga will perform a selection of well-known songs, including her greatest hits from various musicals and films, at concerts tonight at the Valley Performing Arts Center in Northridge and Saturday at Segerstrom Center for the Arts. She will be backed by a four-piece band.  "We made sure to choose a fun program that the band is going to dig playing and I'm going to love singing," Salonga said. "And because we are having so much fun onstage, I hope that translates to the audience as well."  Salonga's solo concerts often feature an audience participation segment, in which she chooses someone to join her onstage to sing the Grammy and Academy Award-winning duet "A Whole New World" from "Aladdin." She promised that the audience will be familiar with the tunes and that they will fit her vocal range.  Salonga has numerous Broadway credits, including her role as Eponine in the 1993 "Les Misérables" Broadway run and as Fantine in the 2006 Broadway revival. She recently came off Broadway in the new musical "Allegiance," which also starred George Takei and Telly Leung.  Splitting her time between the U.S. and Manila, Salonga is a coach on the Philippine version of the television show "The Voice." In addition to her onscreen and onstage career, she has released several solo albums, including "I'd Like to Teach the World to Sing" (1997) and "By Heart" (1999).  On this tour, Grammy-nominated bass player Trey Henry and drummer Ray Brinker, both from the jazz group Tierney Sutton Band, will back Salonga. "I get to go up onstage with musicians who I really admire and respect, and just have a great time with," Salonga said. "It's thrilling when I get to perform stuff where I can just emotionally let go and fly off to another world in my mind, and the audience gets to ride on that too."  Contact the writer: [jmoe@ocregister.com](mailto:jmoe@ocregister.com)
+{'entity_name': 'Lea Salonga', 'index': [0, 11]}
+{'entity_name': 'Philippines', 'index': [29, 40]}
+{'entity_name': 'Disney Princess', 'index': [79, 94]}
+{'entity_name': 'Tony Award', 'index': [112, 122]}
+{'entity_name': 'Kim In', 'index': [144, 147]}
+{'entity_name': 'Kim In', 'index': [144, 150]}
+{'entity_name': 'Broadway theatre', 'index': [155, 163]}
+{'entity_name': 'Broadway theatre', 'index': [155, 171]}
+{'entity_name': 'Miss Saigon', 'index': [173, 184]}
+{'entity_name': 'Lea Salonga', 'index': [195, 202]}
+{'entity_name': 'Princess Jasmine', 'index': [222, 238]}
+{'entity_name': 'The Hit (1984 film)', 'index': [251, 254]}
+{'entity_name': 'The Walt Disney Company', 'index': [255, 261]}
+{'entity_name': 'Film', 'index': [262, 266]}
+{'entity_name': 'Aladdin (1992 Disney film)', 'index': [268, 275]}
+{'entity_name': 'Mulan (1998 film)', 'index': [309, 314]}
+{'entity_name': 'Walt Disney Pictures', 'index': [327, 333]}
+{'entity_name': 'Goldfinger (film)', 'index': [334, 355]}
+{'entity_name': 'Job interview', 'index': [370, 385]}
+{'entity_name': 'Job interview', 'index': [376, 385]}
+{'entity_name': 'Magic (paranormal)', 'index': [412, 419]}
+{'entity_name': 'Experience point', 'index': [420, 430]}
+{'entity_name': 'Disney Princess', 'index': [445, 460]}
+{'entity_name': 'Princess and I', 'index': [452, 464]}
+{'entity_name': 'Thought', 'index': [471, 478]}
+{'entity_name': 'Cinderella', 'index': [510, 520]}
+{'entity_name': 'Disney Princess', 'index': [544, 559]}
+{'entity_name': 'She Said', 'index': [562, 570]}
+{'entity_name': 'Think (Aretha Franklin song)', 'index': [575, 580]}
+{'entity_name': 'Thing (comics)', 'index': [601, 606]}
+{'entity_name': 'Existential quantification', 'index': [659, 668]}
+{'entity_name': 'Thought', 'index': [688, 695]}
+{'entity_name': 'Natural selection', 'index': [735, 744]}
+{'entity_name': 'Bird vocalization', 'index': [759, 764]}
+{'entity_name': 'Greatest Hits (Queen album)', 'index': [780, 793]}
+{'entity_name': 'Musical theatre', 'index': [807, 815]}
+{'entity_name': 'Film', 'index': [820, 825]}
+{'entity_name': 'Concert', 'index': [830, 838]}
+{'entity_name': 'The Tonight Show', 'index': [839, 846]}
+{'entity_name': 'California State University, Northridge', 'index': [854, 883]}
+{'entity_name': 'California State University, Northridge', 'index': [887, 897]}
+{'entity_name': 'Segerstrom Center for the Arts', 'index': [914, 944]}
+{'entity_name': 'Backing vocalist', 'index': [958, 964]}
+{'entity_name': 'Musical ensemble', 'index': [970, 980]}
+{'entity_name': 'Musical ensemble', 'index': [981, 985]}
+{'entity_name': 'Fun (band)', 'index': [1014, 1017]}
+{'entity_name': 'L-O-V-E', 'index': [1081, 1085]}
+{'entity_name': 'Album', 'index': [1218, 1222]}
+{'entity_name': 'Concert', 'index': [1223, 1231]}
+{'entity_name': 'Feature film', 'index': [1238, 1245]}
+{'entity_name': 'Audience', 'index': [1249, 1271]}
+{'entity_name': 'Singing', 'index': [1333, 1337]}
+{'entity_name': 'Grammy Award', 'index': [1342, 1348]}
+{'entity_name': 'Academy Awards', 'index': [1353, 1374]}
+{'entity_name': 'Duet (Doris Day and André Previn album)', 'index': [1375, 1379]}
+{'entity_name': 'A Whole New World', 'index': [1383, 1398]}
+{'entity_name': 'Aladdin (1992 Disney film)', 'index': [1406, 1413]}
+{'entity_name': 'She (1935 film)', 'index': [1416, 1419]}
+{'entity_name': 'Fourth wall', 'index': [1438, 1446]}
+{'entity_name': 'Free will', 'index': [1447, 1451]}
+{'entity_name': 'Intimate relationship', 'index': [1455, 1463]}
+{'entity_name': 'Music', 'index': [1473, 1478]}
+{'entity_name': 'Free will', 'index': [1493, 1497]}
+{'entity_name': 'Vocal range', 'index': [1506, 1517]}
+{'entity_name': 'Lea Salonga', 'index': [1520, 1527]}
+{'entity_name': 'Broadway theatre', 'index': [1541, 1549]}
+{'entity_name': 'Éponine', 'index': [1581, 1588]}
+{'entity_name': 'Les Misérables (musical)', 'index': [1602, 1616]}
+{'entity_name': 'Broadway theatre', 'index': [1618, 1626]}
+{'entity_name': 'Fantine', 'index': [1638, 1645]}
+{'entity_name': 'Broadway theatre', 'index': [1658, 1666]}
+{'entity_name': 'Play (theatre)', 'index': [1667, 1674]}
+{'entity_name': 'Off-Broadway', 'index': [1694, 1706]}
+{'entity_name': 'Musical theatre', 'index': [1718, 1725]}
+{'entity_name': 'Allegiance (musical)', 'index': [1727, 1737]}
+{'entity_name': 'George Takei', 'index': [1759, 1771]}
+{'entity_name': 'Telly Leung', 'index': [1776, 1787]}
+{'entity_name': 'Manila', 'index': [1830, 1836]}
+{'entity_name': 'Jovito Salonga', 'index': [1838, 1845]}
+{'entity_name': 'Philippines', 'index': [1864, 1874]}
+{'entity_name': 'Survivor Philippines', 'index': [1864, 1882]}
+{'entity_name': 'Television program', 'index': [1890, 1900]}
+{'entity_name': 'Television program', 'index': [1890, 1905]}
+{'entity_name': 'Voice acting', 'index': [1911, 1916]}
+{'entity_name': 'Billboard charts', 'index': [1997, 2003]}
+{'entity_name': 'Sing (Joe Raposo song)', 'index': [2047, 2051]}
+{'entity_name': 'By Heart (Lea Salonga album)', 'index': [2065, 2073]}
+{'entity_name': 'Concert', 'index': [2092, 2096]}
+{'entity_name': 'Grammy Award', 'index': [2098, 2114]}
+{'entity_name': 'Bassist', 'index': [2115, 2119]}
+{'entity_name': 'Bass guitar', 'index': [2115, 2126]}
+{'entity_name': 'Ray (film)', 'index': [2150, 2153]}
+{'entity_name': 'Nancy Brinker', 'index': [2154, 2161]}
+{'entity_name': 'Jazz', 'index': [2177, 2181]}
+{'entity_name': 'Tierney Sutton', 'index': [2188, 2202]}
+{'entity_name': 'Up (2009 film)', 'index': [2241, 2243]}
+{'entity_name': 'Session musician', 'index': [2257, 2266]}
+{'entity_name': 'The Who', 'index': [2267, 2270]}
+{'entity_name': 'Respect (song)', 'index': [2291, 2298]}
+{'entity_name': 'The Time (Dirty Bit)', 'index': [2322, 2326]}
+{'entity_name': 'Lea Salonga', 'index': [2334, 2341]}
+{'entity_name': 'The Fly (1958 film)', 'index': [2432, 2435]}
+{'entity_name': 'Another World (TV series)', 'index': [2443, 2456]}
+{'entity_name': 'Orange County Register', 'index': [2540, 2554]}
+{'entity_name': 'Mailto', 'index': [2556, 2562]}
+{'entity_name': 'Orange County Register', 'index': [2568, 2582]}

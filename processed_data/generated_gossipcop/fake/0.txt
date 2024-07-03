@@ -1,0 +1,17 @@
+Star magazine has released an explosive report today that claims a woman has come forward to claim she is pregnant with Brad Pitt's child.  The 54-year-old actor has allegedly learnt that a former 'twenty-something' fling from earlier this year, who wishes to remain anonymous, has come forward to the publication.  'This will be an absolute nightmare for Bard if her claims are true,' an insider spilled. 'After all the drama he's been through over the past two years, he's desperate to keep his life as trouble and scandal free as possible.'  According to Star's bombshell claims, the mystery woman is willing to undergo a paternity test and use the results to effectively tell Brad, 'I've got the DNA tests to prove it!'
+{'entity_name': 'Star (magazine)', 'index': [0, 13]}
+{'entity_name': 'Explosive material', 'index': [30, 39]}
+{'entity_name': 'Explosion', 'index': [40, 46]}
+{'entity_name': 'Woman', 'index': [67, 72]}
+{'entity_name': 'Brad Pitt', 'index': [120, 129]}
+{'entity_name': 'Child actor', 'index': [132, 137]}
+{'entity_name': 'Actor', 'index': [156, 161]}
+{'entity_name': 'Ageing', 'index': [198, 214]}
+{'entity_name': 'William Shakespeare', 'index': [356, 360]}
+{'entity_name': 'Celebrity', 'index': [558, 562]}
+{'entity_name': 'Bombshell (sex symbol)', 'index': [565, 574]}
+{'entity_name': 'Will and testament', 'index': [604, 611]}
+{'entity_name': 'DNA paternity testing', 'index': [625, 639]}
+{'entity_name': 'Tell', 'index': [675, 679]}
+{'entity_name': 'Barad, Syria', 'index': [680, 684]}
+{'entity_name': 'DNA', 'index': [700, 703]}
